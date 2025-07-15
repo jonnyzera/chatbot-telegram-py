@@ -1,0 +1,2 @@
+telepot==12.7
+openpyxl>=3.0
